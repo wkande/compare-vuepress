@@ -4,4 +4,8 @@ title: Location
 
 # {{ $frontmatter.title }}
 
-Each requester needs to create a requester record, and get assigned a requester index. This is fairly early, using @api3/airnode-admin. A requester index grants you a separate designated wallet for each provider, which you can use @api3/airnode-admin to derive for a specific provider. You will need to fund the address of thet designated wallet that you have derived if you want the provider to respond to the requests that your client contracts will make.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+::: tip $page Info
+{{$page}}
+:::
