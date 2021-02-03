@@ -1,0 +1,83 @@
+{
+  "sidebar": {
+    "/providers/": [
+      {
+        "title": "Providers",
+        "collapsable": false,
+        "children": [
+          [
+            "",
+            "Introduction"
+          ],
+          "/providers/api-integrations",
+          "/providers/configure-airnode",
+          "/providers/deploy-airnode",
+          "/providers/set-authorizers"
+        ]
+      },
+      {
+        "title": "________________",
+        "collapsable": false
+      },
+      {
+        "title": "More Guides",
+        "collapsable": false,
+        "children": [
+          "/requesters/",
+          "/hackathon/"
+        ]
+      }
+    ],
+    "/requesters/": [
+      {
+        "title": "Requesters",
+        "collapsable": false,
+        "children": [
+          [
+            "",
+            "Introduction"
+          ],
+          "/requesters/create-request",
+          "/requesters/develop-client-contract"
+        ]
+      },
+      {
+        "title": "________________",
+        "collapsable": false
+      },
+      {
+        "title": "More Guides",
+        "collapsable": false,
+        "children": [
+          "/providers/",
+          "/hackathon/"
+        ]
+      }
+    ],
+    "/hackathon/": [
+      {
+        "title": "Hackathon 2020",
+        "collapsable": false,
+        "children": [
+          [
+            "",
+            "Introduction"
+          ],
+          "/hackathon/location"
+        ]
+      },
+      {
+        "title": "________________",
+        "collapsable": false
+      },
+      {
+        "title": "More Guides",
+        "collapsable": false,
+        "children": [
+          "/requesters/",
+          "/providers/"
+        ]
+      }
+    ]
+  }
+}
